@@ -1,5 +1,7 @@
 # 📊 People Analytics Dashboard: Attrition & Employee Well-being
 
+![People Analytics Dashboard](dashboard.png)
+
 ## 📌 Visão Geral do Projeto
 Este projeto consiste num **Dashboard Interativo em Power BI** desenvolvido para analisar os fatores determinantes do *turnover* (saída involuntária e voluntária de colaboradores / *attrition*) numa organização. 
 
